@@ -1,8 +1,4 @@
 {
   "name": "TraceBack",
-  "description": "Lost & Found, Reimagined. A system for MRT/LRT/KTM passengers to recover items.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
+  "description": "Lost & Found, Reimagined. A system for MRT/LRT/KTM passengers to recover items."
 }
