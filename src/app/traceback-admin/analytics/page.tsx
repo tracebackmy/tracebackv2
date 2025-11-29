@@ -1,6 +1,6 @@
 "use client";
 
-import { PieChart, BarChart, Activity, Users } from "lucide-react";
+import { PieChart, BarChart, Package, CheckSquare, MessageSquare, Users } from "lucide-react";
 
 export default function Analytics() {
   // Mock data for visual completeness
@@ -40,5 +40,3 @@ export default function Analytics() {
     </div>
   );
 }
-
-import { Package, CheckSquare, MessageSquare } from "lucide-react";
